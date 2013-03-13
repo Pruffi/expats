@@ -27,16 +27,16 @@ if ( ! function_exists( 'et_setup_theme' ) ){
 }
 
 add_action('wp_head','et_portfoliopt_additional_styles',100);
-function et_portfoliopt_additional_styles(){ ?>
-	<style type="text/css">
+function et_portfoliopt_additional_styles(){
+	echo '<style type="text/css">
 		#et_pt_portfolio_gallery { margin-left: -41px; }
 		.et_pt_portfolio_item { margin-left: 35px; }
 		.et_portfolio_small { margin-left: -40px !important; }
 		.et_portfolio_small .et_pt_portfolio_item { margin-left: 32px !important; }
 		.et_portfolio_large { margin-left: -26px !important; }
 		.et_portfolio_large .et_pt_portfolio_item { margin-left: 11px !important; }
-	</style>
-<?php }
+	</style>';
+}
 
 function register_main_menus() {
 	register_nav_menus(
@@ -64,12 +64,11 @@ function et_home_posts_query( $query = false ) {
 
 if ( ! function_exists( 'et_list_pings' ) ){
 	function et_list_pings($comment, $args, $depth) {
-		$GLOBALS['comment'] = $comment; ?>
-		<li id="comment-<?php comment_ID(); ?>"><?php comment_author_link(); ?> - <?php comment_excerpt(); ?>
-	<?php }
-} ?>
+		$GLOBALS['comment'] = $comment;
+		echo '<li id="comment-' . comment_ID() . '">' . comment_author_link(). ' - ' .  comment_excerpt();
+	}
+}
 
-<?php
 function language_selector_flags(){
     $languages = icl_get_languages('skip_missing=0&orderby=code');
     if(!empty($languages)){
