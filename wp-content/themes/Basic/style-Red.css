@@ -32,7 +32,7 @@ blockquote { overflow: auto; padding: 0 10px; margin: 20px 30px; background-colo
 .adwrap a, .adwrap a:hover, .adwrap a:visited { margin-right: 5px; margin-bottom: 5px; display: block; float: left; }
 .icons { margin-top: 0px; margin-bottom: -5px; margin-right: 10px; }
 .post-inside-2 { float: left; width: 450px; }
-.logo { float: left; border: 0px; margin: 38px 0px 0px 66px }
+.logo { float: left; border: 0px; margin: 8px 0 0 39px; padding: 1px; background-color: #FFFFFF }
 .thumbnail { border: 10px solid #F2F2F2; float: left; margin-right: 25px; margin-bottom: 15px; }
 .current-category { color: #292929; border: 1px solid #EBEBEB; padding: 5px; display: block; margin-bottom: 10px; width: 640px; }
 .post-info { color: #FFF; font-weight: bold; padding: 4px 12px; display: block; float: left; background-color: #E81D1D; margin-bottom: 11px; }
