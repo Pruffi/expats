@@ -211,11 +211,6 @@ msgstr "Запрашиваемая страница не найдена. Поп�
 msgid "Zoom in"
 msgstr ""
 
-#: ../page-gallery.php:56
-#: ../page-template-portfolio.php:110
-msgid "Read more"
-msgstr ""
-
 #: ../page-login.php:34
 msgid "Username"
 msgstr ""
@@ -610,19 +605,19 @@ msgstr ""
 #: ../includes/default.php:44
 #: ../includes/defaultcat.php:37
 msgid "&laquo; Previous Entries"
-msgstr "&laquo; Предыдущие Записи"
+msgstr "&laquo; Предыдущие Вакансии"
 
 #: ../includes/blogstyle.php:43
 #: ../includes/blogstylecat.php:36
 #: ../includes/default.php:45
 #: ../includes/defaultcat.php:38
 msgid "Next Entries &raquo;"
-msgstr "Следующие Записи &raquo;"
+msgstr "Следующие Вакансии &raquo;"
 
 #: ../includes/blogstylecat.php:2
 #: ../includes/defaultcat.php:2
 msgid "Currently Browsing: "
-msgstr "Вы находитесь:"
+msgstr "Вы находитесь: "
 
 #: ../includes/functions/comments.php:14
 #, php-format

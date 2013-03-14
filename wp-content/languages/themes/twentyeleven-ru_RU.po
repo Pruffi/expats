@@ -670,7 +670,7 @@ msgstr "Избранное: %s"
 
 #: showcase.php:160
 msgid "Recent Posts"
-msgstr "Свежие записи"
+msgstr "Свежие вакансии"
 
 #: sidebar.php:19
 msgid "Archives"

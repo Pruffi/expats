@@ -97,7 +97,7 @@ msgstr ""
 
 #: wp-comments-post.php:36
 msgid "Sorry, comments are closed for this item."
-msgstr "Извините, обсуждение этой записи закрыто."
+msgstr "Извините, обсуждение этой вакансии закрыто."
 
 #: wp-comments-post.php:71
 msgid "Sorry, you must be logged in to post a comment."
@@ -259,7 +259,7 @@ msgstr ""
 
 #: wp-content/plugins/akismet/admin.php:170
 msgid "Auto-delete spam submitted on posts more than a month old."
-msgstr "Автоматически удалять спам-комментарии к записям старше месяца."
+msgstr "Автоматически удалять спам-комментарии к вакансиям старше месяца."
 
 #: wp-content/plugins/akismet/admin.php:171
 msgid "Show the number of comments you've approved beside each comment author."
@@ -694,7 +694,7 @@ msgstr "Не спам"
 
 #: wp-content/plugins/akismet/legacy.php:294 wp-includes/post.php:1502
 msgid "View Post"
-msgstr "Просмотреть запись"
+msgstr "Просмотреть вакансию"
 
 #: wp-content/plugins/akismet/legacy.php:333
 msgid "De-spam marked comments &raquo;"
@@ -856,7 +856,7 @@ msgstr "Перейти на сайт сети"
 
 #: wp-includes/admin-bar.php:370 wp-includes/post.php:1501
 msgid "New Post"
-msgstr "Новая запись"
+msgstr "Новая вакансия"
 
 #: wp-includes/admin-bar.php:379
 msgid "Manage Comments"
@@ -935,7 +935,7 @@ msgstr "Перейти на сайт %s"
 
 #: wp-includes/author-template.php:204 wp-includes/author-template.php:318
 msgid "Posts by %s"
-msgstr "Записи %s"
+msgstr "Вакансии %s"
 
 #: wp-includes/bookmark-template.php:81
 msgid "Last updated: %s"
@@ -963,36 +963,36 @@ msgstr ""
 #: wp-includes/category-template.php:197 wp-includes/category-template.php:200
 #: wp-includes/category-template.php:207
 msgid "View all posts in %s"
-msgstr "Просмотреть все записи в рубрике &laquo;%s&raquo;"
+msgstr "Просмотреть все вакансии в категории &laquo;%s&raquo;"
 
 #: wp-includes/category-template.php:161
 msgid "Uncategorized"
-msgstr "Без рубрики"
+msgstr "Без категории"
 
 #: wp-includes/category-template.php:414
 msgid "No categories"
-msgstr "Рубрик нет"
+msgstr "Категорий нет"
 
 #: wp-includes/category-template.php:422 wp-includes/default-widgets.php:444
 #: wp-includes/default-widgets.php:450 wp-includes/theme-compat/sidebar.php:63
 msgid "Categories"
-msgstr "Рубрики"
+msgstr "Категории"
 
 #: wp-includes/category-template.php:563
 msgid "%s topic"
 msgid_plural "%s topics"
-msgstr[0] "%s запись"
-msgstr[1] "%s записи"
-msgstr[2] "%s записей"
-msgstr[3] "%s запись"
+msgstr[0] "%s вакансия"
+msgstr[1] "%s вакансии"
+msgstr[2] "%s вакансий"
+msgstr[3] "%s вакансия"
 
 #: wp-includes/category-template.php:830
 msgid "View all posts filed under %s"
-msgstr "Просмотреть все записи в рубрике &laquo;%s&raquo;"
+msgstr "Просмотреть все вакансии в категории &laquo;%s&raquo;"
 
 #: wp-includes/category-template.php:845
 msgid "Feed for all posts filed under %s"
-msgstr "RSS-лента всех записей в рубрике &laquo;%s&raquo;"
+msgstr "RSS-лента всех вакансий в категории &laquo;%s&raquo;"
 
 #: wp-includes/category-template.php:1017
 msgid "Tags: "
@@ -1343,7 +1343,7 @@ msgstr "Главная страница"
 
 #: wp-includes/class-wp-customize-manager.php:968
 msgid "Posts page"
-msgstr "Страница записей"
+msgstr "Страница вакансией"
 
 #: wp-includes/class-wp-editor.php:114 wp-includes/class-wp-editor.php:674
 msgctxt "Name for the Text editor tab (formerly HTML)"
@@ -1632,7 +1632,7 @@ msgstr "Таблица стилей"
 
 #: wp-includes/class-wp-xmlrpc-server.php:356
 msgid "Post Thumbnail"
-msgstr "Миниатюра записи"
+msgstr "Миниатюра вакансии"
 
 #: wp-includes/class-wp-xmlrpc-server.php:363
 msgid "Time Zone"
@@ -1701,7 +1701,7 @@ msgstr "Методу XML-RPC передано недостаточно аргу�
 #: wp-includes/class-wp-xmlrpc-server.php:4380
 #: wp-includes/class-wp-xmlrpc-server.php:4432
 msgid "Invalid post type"
-msgstr "Неверный тип записи"
+msgstr "Неверный тип вакансии"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1009
 #: wp-includes/class-wp-xmlrpc-server.php:1258
@@ -1717,16 +1717,16 @@ msgstr "Неверный тип записи"
 #: wp-includes/class-wp-xmlrpc-server.php:5155
 #: wp-includes/class-wp-xmlrpc-server.php:5267
 msgid "Invalid post ID."
-msgstr "Неверный ID записи."
+msgstr "Неверный ID вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1011
 msgid "Sorry, you are not allowed to edit this post."
-msgstr "Извините, вам не разрешено редактировать эту запись."
+msgstr "Извините, вам не разрешено редактировать эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1013
 #: wp-includes/class-wp-xmlrpc-server.php:4384
 msgid "The post type may not be changed."
-msgstr "Тип записи изменить нельзя."
+msgstr "Тип вакансии изменить нельзя."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1016
 #: wp-includes/class-wp-xmlrpc-server.php:3869
@@ -1735,22 +1735,22 @@ msgstr "Извините, вам не разрешено публиковать�
 
 #: wp-includes/class-wp-xmlrpc-server.php:1025
 msgid "Sorry, you are not allowed to create private posts in this post type"
-msgstr "Извините, вам не разрешено создавать личные записи этого типа"
+msgstr "Извините, вам не разрешено создавать личные вакансии этого типа"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1030
 msgid "Sorry, you are not allowed to publish posts in this post type"
-msgstr "Извините, вам не разрешено публиковать записи этого типа"
+msgstr "Извините, вам не разрешено публиковать вакансии этого типа"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1039
 msgid ""
 "Sorry, you are not allowed to create password protected posts in this post "
 "type"
-msgstr "Извините, вам не разрешено защищать паролем записи этого типа."
+msgstr "Извините, вам не разрешено защищать паролем вакансии этого типа."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1044
 #: wp-includes/class-wp-xmlrpc-server.php:4121
 msgid "You are not allowed to create posts as this user."
-msgstr "Вам не разрешено создавать записи от лица этого пользователя."
+msgstr "Вам не разрешено создавать вакансии от лица этого пользователя."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1049
 #: wp-includes/class-wp-xmlrpc-server.php:4133
@@ -1759,11 +1759,11 @@ msgstr "Неверный ID автора."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1082
 msgid "Sorry, you cannot stick a private post."
-msgstr "Извините, личную запись прилепить нельзя."
+msgstr "Извините, личную вакансию прилепить нельзя."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1087
 msgid "Sorry, you are not allowed to stick this post."
-msgstr "Извините, вам не разрешено прилеплять эту запись."
+msgstr "Извините, вам не разрешено прилеплять эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1100
 #: wp-includes/class-wp-xmlrpc-server.php:3283
@@ -1776,7 +1776,7 @@ msgstr "Неверный ID вложения."
 #: wp-includes/class-wp-xmlrpc-server.php:1144
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
 msgstr ""
-"Извините, одна из указанных таксономий не поддерживается этим типом записей."
+"Извините, одна из указанных таксономий не поддерживается этим типом вакансией."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1124
 #: wp-includes/class-wp-xmlrpc-server.php:1147
@@ -1811,19 +1811,19 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:3889
 #: wp-includes/class-wp-xmlrpc-server.php:4296
 msgid "Sorry, your entry could not be posted. Something wrong happened."
-msgstr "Извините, вашу запись не удалось опубликовать. Что-то случилось."
+msgstr "Извините, вашу вакансию не удалось опубликовать. Что-то случилось."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1263
 msgid "There is a revision of this post that is more recent."
-msgstr "Найдена более свежая редакция записи."
+msgstr "Найдена более свежая редакция вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1322
 msgid "Sorry, you are not allowed to delete this post."
-msgstr "Извините, вам не разрешено удалять эту запись."
+msgstr "Извините, вам не разрешено удалять эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1327
 msgid "The post cannot be deleted."
-msgstr "Невозможно удалить запись."
+msgstr "Невозможно удалить вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1404
 #: wp-includes/class-wp-xmlrpc-server.php:3602
@@ -1832,15 +1832,15 @@ msgstr "Невозможно удалить запись."
 #: wp-includes/class-wp-xmlrpc-server.php:4961
 #: wp-includes/class-wp-xmlrpc-server.php:5158
 msgid "Sorry, you cannot edit this post."
-msgstr "Извините, вы не можете редактировать эту запись."
+msgstr "Извините, вы не можете редактировать эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1459
 msgid "The post type specified is not valid"
-msgstr "Указанный тип записей некорректен"
+msgstr "Указанный тип вакансии некорректен"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1465
 msgid "Sorry, you are not allowed to edit posts in this post type"
-msgstr "Извините, вам не разрешено редактировать записи этого типа"
+msgstr "Извините, вам не разрешено редактировать вакансии этого типа"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1545
 #: wp-includes/class-wp-xmlrpc-server.php:1633
@@ -1959,35 +1959,35 @@ msgstr "Извините, у вас нет прав на редактирова�
 
 #: wp-includes/class-wp-xmlrpc-server.php:2517
 msgid "Sorry, you cannot edit posts on this site."
-msgstr "Извините, вы не можете редактировать записи на этом сайте."
+msgstr "Извините, вы не можете редактировать вакансии на этом сайте."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2552
 msgid ""
 "Sorry, you must be able to edit posts on this site in order to view tags."
 msgstr ""
 "Извините, чтобы просматривать метки, вам нужны права на редактирование "
-"записей на этом сайте."
+"вакансий на этом сайте."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2597
 msgid "Sorry, you do not have the right to add a category."
-msgstr "Извините, у вас нет прав на добавление рубрики."
+msgstr "Извините, у вас нет прав на добавление категории."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2625
 #: wp-includes/class-wp-xmlrpc-server.php:2627
 msgid "Sorry, the new category failed."
-msgstr "Извините, создать рубрику не удалось."
+msgstr "Извините, создать категорию не удалось."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2657
 msgid "Sorry, you do not have the right to delete a category."
-msgstr "Извините, у вас нет прав на удаление рубрики."
+msgstr "Извините, у вас нет прав на удаление категории."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2688
 msgid ""
 "Sorry, you must be able to edit posts to this site in order to view "
 "categories."
 msgstr ""
-"Извините, чтобы просматривать рубрики, вам нужны права на редактирование "
-"записей на этом сайте."
+"Извините, чтобы просматривать категории, вам нужны права на редактирование "
+"вакансий на этом сайте."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2724
 #: wp-includes/class-wp-xmlrpc-server.php:2825
@@ -2051,18 +2051,18 @@ msgstr "У вас нет прав на загрузку файлов."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3437
 msgid "Sorry, you are not allowed to edit this post type."
-msgstr "Извините, вам не разрешено редактировать этот тип записей."
+msgstr "Извините, вам не разрешено редактировать этот тип вакансий."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3532
 #: wp-includes/class-wp-xmlrpc-server.php:3593
 #: wp-includes/class-wp-xmlrpc-server.php:3596
 #: wp-includes/class-wp-xmlrpc-server.php:3599
 msgid "Invalid post ID"
-msgstr "Неверный ID записи"
+msgstr "Неверный ID вакансии"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3535
 msgid "Sorry, you are not allowed to edit posts."
-msgstr "Извините, вам не разрешено редактировать записи."
+msgstr "Извините, вам не разрешено редактировать вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3539
 #: wp-includes/class-wp-xmlrpc-server.php:3606
@@ -2076,7 +2076,7 @@ msgstr "Извините, у вас нет доступа к данным пол
 #: wp-includes/class-wp-xmlrpc-server.php:3792
 #: wp-includes/class-wp-xmlrpc-server.php:5019
 msgid "Either there are no posts, or something went wrong."
-msgstr "Либо записей нет, либо что-то случилось."
+msgstr "Либо вакансий нет, либо что-то случилось."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3831
 #: wp-includes/class-wp-xmlrpc-server.php:3841
@@ -2088,34 +2088,34 @@ msgstr "Извините, этот файл не может быть измен�
 #: wp-includes/class-wp-xmlrpc-server.php:4733
 #: wp-includes/class-wp-xmlrpc-server.php:5221
 msgid "Sorry, no such post."
-msgstr "Извините, такой записи нет."
+msgstr "Извините, такой вакансии нет."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3929
 #: wp-includes/class-wp-xmlrpc-server.php:4376
 msgid "Sorry, you do not have the right to edit this post."
-msgstr "Извините, у вас нет прав на редактирование этой записи."
+msgstr "Извините, у вас нет прав на редактирование этой вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3934
 #: wp-includes/class-wp-xmlrpc-server.php:4537
 msgid "Sorry, you do not have the right to publish this post."
-msgstr "Извините, у вас нет прав на публикацию этой записи."
+msgstr "Извините, у вас нет прав на публикацию этой вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3945
 msgid ""
 "For some strange yet very annoying reason, this post could not be edited."
 msgstr ""
-"По какой-то странной и неприятной причине эту запись не удалось "
+"По какой-то странной и неприятной причине эту вакансию не удалось "
 "отредактировать."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3981
 msgid "Sorry, you do not have the right to delete this post."
-msgstr "Извините, у вас нет прав на удаление этой записи."
+msgstr "Извините, у вас нет прав на удаление этой вакансии."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3986
 msgid ""
 "For some strange yet very annoying reason, this post could not be deleted."
 msgstr ""
-"По какой-то странной и неприятной причине удалить эту запись не удалось."
+"По какой-то странной и неприятной причине удалить эту вакансию не удалось."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4055
 msgid "Sorry, you are not allowed to publish pages on this site."
@@ -2125,12 +2125,12 @@ msgstr "Извините, вам не разрешено публиковать 
 #: wp-includes/class-wp-xmlrpc-server.php:4079
 #: wp-includes/class-wp-xmlrpc-server.php:4084
 msgid "Sorry, you are not allowed to publish posts on this site."
-msgstr "Извините, вам не разрешено публиковать записи на этом сайте."
+msgstr "Извините, вам не разрешено публиковать вакансии на этом сайте."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4092
 #: wp-includes/class-wp-xmlrpc-server.php:4390
 msgid "Invalid post format"
-msgstr "Неверный формат записи"
+msgstr "Неверный формат вакансии"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4125
 msgid "You are not allowed to create pages as this user."
@@ -2138,7 +2138,7 @@ msgstr "Вам не разрешено создавать страницы от 
 
 #: wp-includes/class-wp-xmlrpc-server.php:4425
 msgid "You are not allowed to change the post author as this user."
-msgstr "Вам не разрешено изменять автора записи от лица этого пользователя."
+msgstr "Вам не разрешено изменять автора вакансии от лица этого пользователя."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4429
 msgid "You are not allowed to change the page author as this user."
@@ -2150,7 +2150,7 @@ msgstr "Извините, у вас нет прав на публикацию э
 
 #: wp-includes/class-wp-xmlrpc-server.php:4573
 msgid "Sorry, your entry could not be edited. Something wrong happened."
-msgstr "Извините, вашу запись не удалось изменить. Что-то случилось."
+msgstr "Извините, вашу вакансию не удалось изменить. Что-то случилось."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4872
 #: wp-includes/class-wp-xmlrpc-server.php:5071
@@ -2158,8 +2158,8 @@ msgid ""
 "Sorry, you must be able to edit posts on this site in order to view "
 "categories."
 msgstr ""
-"Извините, чтобы просматривать рубрики, вам нужны права на редактирование "
-"записей на этом сайте."
+"Извините, чтобы просматривать категории, вам нужны права на редактирование "
+"вакансий на этом сайте."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4952
 msgid "Could not write file %1$s (%2$s)"
@@ -2167,11 +2167,11 @@ msgstr "Не удалось сохранить файл %1$s (%2$s)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5112
 msgid "Sorry, you can not edit this post."
-msgstr "Извините, вы не можете редактировать эту запись."
+msgstr "Извините, вы не можете редактировать эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5270
 msgid "Sorry, you cannot publish this post."
-msgstr "Извините, вы не можете опубликовать эту запись."
+msgstr "Извините, вы не можете опубликовать эту вакансию."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5319
 msgid "Is there no link to us?"
@@ -2266,7 +2266,7 @@ msgstr "Введите пароль для просмотра комментар
 
 #: wp-includes/comment-template.php:1013
 msgid "Comment on %s"
-msgstr "Прокомментировать запись &laquo;%s&raquo;"
+msgstr "Прокомментировать вакансию &laquo;%s&raquo;"
 
 #: wp-includes/comment-template.php:1038 wp-includes/script-loader.php:364
 msgid "Reply"
@@ -2460,7 +2460,7 @@ msgstr "Ссылки"
 
 #: wp-includes/default-widgets.php:148
 msgid "Select Link Category:"
-msgstr "Выберите рубрику ссылок:"
+msgstr "Выберите категорию ссылок:"
 
 #: wp-includes/default-widgets.php:150
 msgctxt "links widget"
@@ -2510,7 +2510,7 @@ msgstr "Форма поиска для вашего сайта"
 
 #: wp-includes/default-widgets.php:236
 msgid "A monthly archive of your site&#8217;s posts"
-msgstr "Архив записей вашего сайта по месяцам"
+msgstr "Архив вакансий вашего сайта по месяцам"
 
 #: wp-includes/default-widgets.php:237 wp-includes/default-widgets.php:244
 #: wp-includes/theme-compat/sidebar.php:57
@@ -2527,7 +2527,7 @@ msgstr "В виде выпадающего меню"
 
 #: wp-includes/default-widgets.php:285 wp-includes/default-widgets.php:518
 msgid "Show post counts"
-msgstr "Отображать число записей"
+msgstr "Отображать число вакансий"
 
 #: wp-includes/default-widgets.php:301
 msgid "Log in/out, admin, feed and WordPress links"
@@ -2544,11 +2544,11 @@ msgstr "Подпишитесь на RSS-ленту этого сайта"
 
 #: wp-includes/default-widgets.php:316
 msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
-msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> записей"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> вакансий"
 
 #: wp-includes/default-widgets.php:317
 msgid "The latest comments to all posts in RSS"
-msgstr "Последние комментарии ко всем записям в RSS"
+msgstr "Последние комментарии ко всем вакансиям в RSS"
 
 #: wp-includes/default-widgets.php:317
 msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
@@ -2563,7 +2563,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:352
 msgid "A calendar of your site&#8217;s posts"
-msgstr "Календарь записей вашего сайта"
+msgstr "Календарь вакансий вашего сайта"
 
 #: wp-includes/default-widgets.php:353
 msgid "Calendar"
@@ -2583,11 +2583,11 @@ msgstr "Автоматически добавлять абзацы"
 
 #: wp-includes/default-widgets.php:443
 msgid "A list or dropdown of categories"
-msgstr "Список или выпадающее меню рубрик"
+msgstr "Список или выпадающее меню категорий"
 
 #: wp-includes/default-widgets.php:462
 msgid "Select Category"
-msgstr "Выберите рубрику"
+msgstr "Выберите категорию"
 
 #: wp-includes/default-widgets.php:521
 msgid "Show hierarchy"
@@ -2595,19 +2595,19 @@ msgstr "Отображать иерархию"
 
 #: wp-includes/default-widgets.php:535
 msgid "The most recent posts on your site"
-msgstr "Самые свежие записи вашего сайта"
+msgstr "Самые свежие вакансии вашего сайта"
 
 #: wp-includes/default-widgets.php:536 wp-includes/default-widgets.php:561
 msgid "Recent Posts"
-msgstr "Свежие записи"
+msgstr "Свежие вакансии"
 
 #: wp-includes/default-widgets.php:618
 msgid "Number of posts to show:"
-msgstr "Количество записей:"
+msgstr "Количество вакансий:"
 
 #: wp-includes/default-widgets.php:622
 msgid "Display post date?"
-msgstr "Отображать дату записи?"
+msgstr "Отображать дату вакансии?"
 
 #: wp-includes/default-widgets.php:635
 msgid "The most recent comments"
@@ -2621,7 +2621,7 @@ msgstr "Свежие комментарии"
 #: wp-includes/default-widgets.php:694
 msgctxt "widgets"
 msgid "%1$s on %2$s"
-msgstr "%1$s к записи %2$s"
+msgstr "%1$s к вакансии %2$s"
 
 #: wp-includes/default-widgets.php:725
 msgid "Number of comments to show:"
@@ -2629,7 +2629,7 @@ msgstr "Количество комментариев:"
 
 #: wp-includes/default-widgets.php:739
 msgid "Entries from any RSS or Atom feed"
-msgstr "Записи из любой ленты RSS или Atom"
+msgstr "Вакансии из любой ленты RSS или Atom"
 
 #: wp-includes/default-widgets.php:741
 msgid "RSS"
@@ -2738,11 +2738,11 @@ msgstr "Вложение не найдено"
 
 #: wp-includes/deprecated.php:2732
 msgid "First Post"
-msgstr "Первая запись"
+msgstr "Первая вакансия"
 
 #: wp-includes/deprecated.php:2732
 msgid "Last Post"
-msgstr "Последняя запись"
+msgstr "Последняя вакансия"
 
 #: wp-includes/deprecated.php:3175 wp-includes/functions.php:2002
 msgid "Are you sure you want to do this?"
@@ -2774,7 +2774,7 @@ msgstr "Комментарии на сайте %s"
 
 #: wp-includes/feed-atom-comments.php:52 wp-includes/feed-rss2-comments.php:44
 msgid "Comment on %1$s by %2$s"
-msgstr "Комментарий к записи %1$s (%2$s)"
+msgstr "Комментарий к вакансии %1$s (%2$s)"
 
 #: wp-includes/feed-atom-comments.php:54 wp-includes/feed-rss2-comments.php:46
 msgid "By: %s"
@@ -3142,7 +3142,7 @@ msgstr "%1$s %2$s"
 
 #: wp-includes/general-template.php:1172 wp-includes/general-template.php:1180
 msgid "View posts for %1$s %2$s"
-msgstr "Посмотреть записи за %1$s %2$s"
+msgstr "Посмотреть вакансии за %1$s %2$s"
 
 #. translators: Separator between blog name and feed type in feed links
 #: wp-includes/general-template.php:1600 wp-includes/general-template.php:1623
@@ -3168,7 +3168,7 @@ msgstr "%1$s %2$s Лента комментариев к &laquo;%3$s&raquo;"
 #. translators: 1: blog name, 2: separator(raquo), 3: category name
 #: wp-includes/general-template.php:1627
 msgid "%1$s %2$s %3$s Category Feed"
-msgstr "%1$s %2$s Лента рубрики %3$s"
+msgstr "%1$s %2$s Лента категории %3$s"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: tag name
 #: wp-includes/general-template.php:1629
@@ -3178,7 +3178,7 @@ msgstr "%1$s %2$s Лента метки %3$s"
 #. translators: 1: blog name, 2: separator(raquo), 3: author name
 #: wp-includes/general-template.php:1631
 msgid "%1$s %2$s Posts by %3$s Feed"
-msgstr "%1$s %2$s Лента записей автора %3$s"
+msgstr "%1$s %2$s Лента вакансий автора %3$s"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: search phrase
 #: wp-includes/general-template.php:1633
@@ -3188,7 +3188,7 @@ msgstr "%1$s %2$s Лента результатов поиска &laquo;%3$s&raq
 #. translators: 1: blog name, 2: separator(raquo), 3: post type name
 #: wp-includes/general-template.php:1635
 msgid "%1$s %2$s %3$s Feed"
-msgstr "%1$s %2$s Лента записей типа &laquo;%3$s&raquo;"
+msgstr "%1$s %2$s Лента вакансий типа &laquo;%3$s&raquo;"
 
 #: wp-includes/general-template.php:1930
 msgid "&laquo; Previous"
@@ -5101,10 +5101,10 @@ msgstr ""
 "Если вы хотите загрузить изображение или другой медиафайл с компьютера, "
 "можно использовать кнопку библиотеки медиафайлов чуть выше редактора. Для "
 "каждого загруженного изображения в библиотеке файлов создаётся миниатюра. "
-"Чтобы вставить загруженную картинку в запись, щёлкните на миниатюре для "
+"Чтобы вставить загруженную картинку в вакансию, щёлкните на миниатюре для "
 "просмотра способов представления. Выбрав подходящий вариант, нажмите кнопку "
-"&laquo;Вставить в запись&raquo;, и ваша картинка или файл появится в текущей "
-"записи."
+"&laquo;Вставить в вакансию&raquo;, и ваша картинка или файл появится в текущей "
+"вакансии."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:183
 msgid "HTML in the Rich Editor"
@@ -5120,9 +5120,9 @@ msgid ""
 "If the code is valid and understood by the editor, you should see it "
 "rendered immediately."
 msgstr ""
-"Любой HTML-код, введённый прямо в визуальном редакторе, при просмотре записи "
+"Любой HTML-код, введённый прямо в визуальном редакторе, при просмотре вакансии "
 "будет показан как текст. Что видишь &#8212; то и получаешь. Если вы хотите "
-"включить в запись HTML-элементы, которые нельзя получить с помощью кнопок на "
+"включить в вакансию HTML-элементы, которые нельзя получить с помощью кнопок на "
 "панели инструментов, вам нужно добавить их вручную в текстовом редакторе. "
 "Для этого переключитесь на вкладку &laquo;Текст&raquo; и введите код. Если "
 "он корректен и понятен визуальному редактору, вы увидите его сразу же, "
@@ -5335,15 +5335,15 @@ msgstr "Изменить ссылку"
 
 #: wp-includes/link-template.php:1149
 msgid "Use commas instead of %s to separate excluded categories."
-msgstr "Чтобы исключить несколько рубрик, вместо %s используйте запятые."
+msgstr "Чтобы исключить несколько категорий, вместо %s используйте запятые."
 
 #: wp-includes/link-template.php:1221 wp-includes/link-template.php:1389
 msgid "Previous Post"
-msgstr "Предыдущая запись"
+msgstr "Предыдущая вакансия"
 
 #: wp-includes/link-template.php:1221 wp-includes/link-template.php:1389
 msgid "Next Post"
-msgstr "Следующая запись"
+msgstr "Следующая вакансия"
 
 #: wp-includes/link-template.php:1744
 msgid "Newer Comments &raquo;"
@@ -5658,7 +5658,7 @@ msgstr "Вставить в страницу"
 
 #: wp-includes/media.php:1522
 msgid "Insert into post"
-msgstr "Вставить в запись"
+msgstr "Вставить в вакансию"
 
 #: wp-includes/media.php:1523
 msgid "Uploaded to this page"
@@ -5666,7 +5666,7 @@ msgstr "Загруженные для этой страницы"
 
 #: wp-includes/media.php:1523
 msgid "Uploaded to this post"
-msgstr "Загруженные для этой записи"
+msgstr "Загруженные для этой вакансии"
 
 #: wp-includes/media.php:1524
 msgid ""
@@ -6201,7 +6201,7 @@ msgstr ""
 
 #: wp-includes/pluggable.php:1014
 msgid "New comment on your post \"%s\""
-msgstr "Новый комментарий к записи \"%s\""
+msgstr "Новый комментарий к вакансии \"%s\""
 
 #. translators: 1: comment author, 2: author IP, 3: author domain
 #: wp-includes/pluggable.php:1016 wp-includes/pluggable.php:1129
@@ -6228,7 +6228,7 @@ msgstr "Комментарий:"
 
 #: wp-includes/pluggable.php:1021
 msgid "You can see all comments on this post here: "
-msgstr "Здесь вы можете посмотреть все комментарии к данной записи:"
+msgstr "Здесь вы можете посмотреть все комментарии к данной вакансии:"
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1023
@@ -6237,7 +6237,7 @@ msgstr "[%1$s] Комментарий: \"%2$s\""
 
 #: wp-includes/pluggable.php:1025
 msgid "New trackback on your post \"%s\""
-msgstr "Новая обратная ссылка на вашу запись \"%s\""
+msgstr "Новая обратная ссылка на вашу вакансию \"%s\""
 
 #. translators: 1: website name, 2: author IP, 3: author domain
 #. translators: 1: comment author, 2: author IP, 3: author domain
@@ -6251,7 +6251,7 @@ msgstr "Цитата: "
 
 #: wp-includes/pluggable.php:1030
 msgid "You can see all trackbacks on this post here: "
-msgstr "Здесь вы можете посмотреть все обратные ссылки на запись: "
+msgstr "Здесь вы можете посмотреть все обратные ссылки на вакансию: "
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1032
@@ -6260,11 +6260,11 @@ msgstr "[%1$s] Обратная ссылка: \"%2$s\""
 
 #: wp-includes/pluggable.php:1034
 msgid "New pingback on your post \"%s\""
-msgstr "Новое уведомление к вашей записи \"%s\""
+msgstr "Новое уведомление к вашей вакансии \"%s\""
 
 #: wp-includes/pluggable.php:1039
 msgid "You can see all pingbacks on this post here: "
-msgstr "Здесь вы можете посмотреть все уведомления к записи: "
+msgstr "Здесь вы можете посмотреть все уведомления к вакансии: "
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1041
@@ -6289,7 +6289,7 @@ msgstr "Спам: %s"
 
 #: wp-includes/pluggable.php:1113
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
-msgstr "Новая обратная ссылка к записи \"%s\" ожидает проверки"
+msgstr "Новая обратная ссылка к вакансии \"%s\" ожидает проверки"
 
 #: wp-includes/pluggable.php:1115 wp-includes/pluggable.php:1122
 msgid "Website : %1$s (IP: %2$s , %3$s)"
@@ -6301,7 +6301,7 @@ msgstr "Начало обратной ссылки: "
 
 #: wp-includes/pluggable.php:1120
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
-msgstr "Новое уведомление к записи \"%s\" ожидает проверки"
+msgstr "Новое уведомление к вакансии \"%s\" ожидает проверки"
 
 #: wp-includes/pluggable.php:1124
 msgid "Pingback excerpt: "
@@ -6309,7 +6309,7 @@ msgstr "Начало уведомления:"
 
 #: wp-includes/pluggable.php:1127
 msgid "A new comment on the post \"%s\" is waiting for your approval"
-msgstr "Новый комментарий к записи \"%s\" ожидает проверки"
+msgstr "Новый комментарий к вакансии \"%s\" ожидает проверки"
 
 #: wp-includes/pluggable.php:1137
 msgid "Approve it: %s"
@@ -6392,7 +6392,7 @@ msgstr "(далее...)"
 
 #: wp-includes/post-template.php:267
 msgid "There is no excerpt because this is a protected post."
-msgstr "Цитаты нет, потому что запись защищена."
+msgstr "Цитаты нет, потому что вакансия защищена."
 
 #: wp-includes/post-template.php:633
 msgid "Pages:"
@@ -6414,7 +6414,7 @@ msgstr "Главная"
 msgid ""
 "This post is password protected. To view it please enter your password below:"
 msgstr ""
-"Эта запись защищена паролем. Для её просмотра введите, пожалуйста, пароль:"
+"Эта вакансия защищена паролем. Для её просмотра введите, пожалуйста, пароль:"
 
 #: wp-includes/post-template.php:1227
 msgid "Submit"
@@ -6475,7 +6475,7 @@ msgstr "Действия"
 #: wp-includes/post.php:22
 msgctxt "add new on admin bar"
 msgid "Post"
-msgstr "Запись"
+msgstr "Вакансия"
 
 #: wp-includes/post.php:38
 msgctxt "add new on admin bar"
@@ -6601,7 +6601,7 @@ msgstr[3] "Корзина <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:808
 msgid "Invalid post"
-msgstr "Неверная запись"
+msgstr "Неверная вакансия"
 
 #: wp-includes/post.php:866 wp-includes/post.php:887
 msgid "Draft"
@@ -6623,12 +6623,12 @@ msgstr "Опубликовано"
 
 #: wp-includes/post.php:1238
 msgid "Post types cannot exceed 20 characters in length"
-msgstr "Типы записей не могут быть длиннее 20 символов"
+msgstr "Типы вакансий не могут быть длиннее 20 символов"
 
 #: wp-includes/post.php:1496
 msgctxt "post type general name"
 msgid "Posts"
-msgstr "Записи"
+msgstr "Вакансии"
 
 #: wp-includes/post.php:1496
 msgctxt "post type general name"
@@ -6638,7 +6638,7 @@ msgstr "Страницы"
 #: wp-includes/post.php:1497
 msgctxt "post type singular name"
 msgid "Post"
-msgstr "Запись"
+msgstr "Вакансия"
 
 #: wp-includes/post.php:1497
 msgctxt "post type singular name"
@@ -6657,7 +6657,7 @@ msgstr "Добавить новую"
 
 #: wp-includes/post.php:1499
 msgid "Add New Post"
-msgstr "Добавить запись"
+msgstr "Добавить вакансию"
 
 #: wp-includes/post.php:1499
 msgid "Add New Page"
@@ -6665,7 +6665,7 @@ msgstr "Добавить страницу"
 
 #: wp-includes/post.php:1500
 msgid "Edit Post"
-msgstr "Редактировать запись"
+msgstr "Редактировать вакансию"
 
 #: wp-includes/post.php:1500
 msgid "Edit Page"
@@ -6681,7 +6681,7 @@ msgstr "Просмотреть страницу"
 
 #: wp-includes/post.php:1503
 msgid "Search Posts"
-msgstr "Поиск записей"
+msgstr "Поиск вакансий"
 
 #: wp-includes/post.php:1503
 msgid "Search Pages"
@@ -6689,7 +6689,7 @@ msgstr "Поиск страниц"
 
 #: wp-includes/post.php:1504
 msgid "No posts found."
-msgstr "Записей не найдено."
+msgstr "Вакансий не найдено."
 
 #: wp-includes/post.php:1504
 msgid "No pages found."
@@ -6697,7 +6697,7 @@ msgstr "Страниц не найдено."
 
 #: wp-includes/post.php:1505
 msgid "No posts found in Trash."
-msgstr "Записей в корзине не найдено."
+msgstr "Вакансий в корзине не найдено."
 
 #: wp-includes/post.php:1505
 msgid "No pages found in Trash."
@@ -6709,7 +6709,7 @@ msgstr "Родительская страница:"
 
 #: wp-includes/post.php:1507
 msgid "All Posts"
-msgstr "Все записи"
+msgstr "Все вакансии"
 
 #: wp-includes/post.php:1507
 msgid "All Pages"
@@ -6768,7 +6768,7 @@ msgid ""
 "Passing an integer number of posts is deprecated. Pass an array of arguments "
 "instead."
 msgstr ""
-"Целочисленный параметр количества записей считается устаревшим. Передавайте "
+"Целочисленный параметр количества вакансий считается устаревшим. Передавайте "
 "массив аргументов."
 
 #: wp-includes/post.php:2731
@@ -6781,11 +6781,11 @@ msgstr "Указанная дата некорректна."
 
 #: wp-includes/post.php:2872
 msgid "Could not update post in the database"
-msgstr "Не удалось обновить запись в базе данных"
+msgstr "Не удалось обновить вакансию в базе данных"
 
 #: wp-includes/post.php:2888
 msgid "Could not insert post into the database"
-msgstr "Не удалось вставить запись в базу данных"
+msgstr "Не удалось вставить вакансию в базу данных"
 
 #: wp-includes/post.php:2935
 msgid "The page template is invalid."
@@ -7133,7 +7133,7 @@ msgstr "Добавить"
 
 #: wp-includes/script-loader.php:346
 msgid "Separate multiple categories with commas."
-msgstr "Рубрики разделяются запятыми."
+msgstr "Категории разделяются запятыми."
 
 #: wp-includes/script-loader.php:363
 msgid "Approve and Reply"
@@ -7274,35 +7274,35 @@ msgstr "Меню навигации"
 
 #: wp-includes/taxonomy.php:81
 msgid "Link Categories"
-msgstr "Рубрики ссылок"
+msgstr "Категории ссылок"
 
 #: wp-includes/taxonomy.php:82
 msgid "Link Category"
-msgstr "Рубрика ссылок"
+msgstr "Категория ссылок"
 
 #: wp-includes/taxonomy.php:83
 msgid "Search Link Categories"
-msgstr "Поиск рубрик ссылок"
+msgstr "Поиск категорий ссылок"
 
 #: wp-includes/taxonomy.php:85
 msgid "All Link Categories"
-msgstr "Все рубрики ссылок"
+msgstr "Все категории ссылок"
 
 #: wp-includes/taxonomy.php:86
 msgid "Edit Link Category"
-msgstr "Изменить рубрику ссылок"
+msgstr "Изменить категорию ссылок"
 
 #: wp-includes/taxonomy.php:87
 msgid "Update Link Category"
-msgstr "Обновить рубрику ссылок"
+msgstr "Обновить категорию ссылок"
 
 #: wp-includes/taxonomy.php:88
 msgid "Add New Link Category"
-msgstr "Добавить новую рубрику ссылок"
+msgstr "Добавить новую категорию ссылок"
 
 #: wp-includes/taxonomy.php:89
 msgid "New Link Category Name"
-msgstr "Название новой рубрики ссылок"
+msgstr "Название новой категории ссылок"
 
 #: wp-includes/taxonomy.php:111 wp-includes/taxonomy.php:112
 msgctxt "post format"
@@ -7321,7 +7321,7 @@ msgstr "Метки"
 #: wp-includes/taxonomy.php:427
 msgctxt "taxonomy general name"
 msgid "Categories"
-msgstr "Рубрики"
+msgstr "Категории"
 
 #: wp-includes/taxonomy.php:428
 msgctxt "taxonomy singular name"
@@ -7331,7 +7331,7 @@ msgstr "Метка"
 #: wp-includes/taxonomy.php:428
 msgctxt "taxonomy singular name"
 msgid "Category"
-msgstr "Рубрика"
+msgstr "Категория"
 
 #: wp-includes/taxonomy.php:429
 msgid "Search Tags"
@@ -7339,7 +7339,7 @@ msgstr "Поиск меток"
 
 #: wp-includes/taxonomy.php:429
 msgid "Search Categories"
-msgstr "Поиск рубрик"
+msgstr "Поиск категорий"
 
 #: wp-includes/taxonomy.php:430
 msgid "Popular Tags"
@@ -7351,15 +7351,15 @@ msgstr "Все метки"
 
 #: wp-includes/taxonomy.php:431
 msgid "All Categories"
-msgstr "Все рубрики"
+msgstr "Все категории"
 
 #: wp-includes/taxonomy.php:432
 msgid "Parent Category"
-msgstr "Родительская рубрика"
+msgstr "Родительская категория"
 
 #: wp-includes/taxonomy.php:433
 msgid "Parent Category:"
-msgstr "Родительская рубрика:"
+msgstr "Родительская категория:"
 
 #: wp-includes/taxonomy.php:434
 msgid "Edit Tag"
@@ -7367,7 +7367,7 @@ msgstr "Изменить метку"
 
 #: wp-includes/taxonomy.php:434
 msgid "Edit Category"
-msgstr "Изменить рубрику"
+msgstr "Изменить категорию"
 
 #: wp-includes/taxonomy.php:435
 msgid "View Tag"
@@ -7375,7 +7375,7 @@ msgstr "Просмотреть метку"
 
 #: wp-includes/taxonomy.php:435
 msgid "View Category"
-msgstr "Просмотреть рубрику"
+msgstr "Просмотреть категорию"
 
 #: wp-includes/taxonomy.php:436
 msgid "Update Tag"
@@ -7383,7 +7383,7 @@ msgstr "Обновить метку"
 
 #: wp-includes/taxonomy.php:436
 msgid "Update Category"
-msgstr "Обновить рубрику"
+msgstr "Обновить категорию"
 
 #: wp-includes/taxonomy.php:437
 msgid "Add New Tag"
@@ -7391,7 +7391,7 @@ msgstr "Добавить новую метку"
 
 #: wp-includes/taxonomy.php:437
 msgid "Add New Category"
-msgstr "Добавить новую рубрику"
+msgstr "Добавить новую категорию"
 
 #: wp-includes/taxonomy.php:438
 msgid "New Tag Name"
@@ -7399,7 +7399,7 @@ msgstr "Название новой метки"
 
 #: wp-includes/taxonomy.php:438
 msgid "New Category Name"
-msgstr "Название новой рубрики"
+msgstr "Название новой категории"
 
 #: wp-includes/taxonomy.php:439
 msgid "Separate tags with commas"
@@ -7472,7 +7472,7 @@ msgid ""
 "this post."
 msgstr ""
 "<abbr title=\"Really Simple Syndication\">RSS</abbr>-лента комментариев к "
-"этой записи."
+"этой вакансии."
 
 #: wp-includes/theme-compat/comments-popup.php:38
 msgid ""
@@ -7480,7 +7480,7 @@ msgid ""
 "entry is: <em>%s</em>"
 msgstr ""
 "<abbr title=\"Universal Resource Locator\">URL</abbr> для обратной ссылки к "
-"этой записи: <em>%s</em>"
+"этой вакансии: <em>%s</em>"
 
 #: wp-includes/theme-compat/comments-popup.php:56
 msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
@@ -7538,7 +7538,7 @@ msgstr "Закрыть окно."
 
 #: wp-includes/theme-compat/comments-popup.php:114
 msgid "Sorry, no posts matched your criteria."
-msgstr "Извините, нет записей, удовлетворяющих вашим условиям."
+msgstr "Извините, нет вакансий, удовлетворяющих вашим условиям."
 
 #: wp-includes/theme-compat/comments-popup.php:118
 msgid ""
@@ -7552,7 +7552,7 @@ msgstr ""
 #: wp-includes/theme-compat/comments.php:17
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
-"Эта запись защищена паролем. Введите пароль, чтобы посмотреть комментарии."
+"Эта вакансия защищена паролем. Введите пароль, чтобы посмотреть комментарии."
 
 #: wp-includes/theme-compat/comments.php:26
 msgid "One Response to %2$s"
@@ -7605,7 +7605,7 @@ msgstr "%1$s и %2$s."
 
 #: wp-includes/theme-compat/footer.php:19
 msgid "Entries (RSS)"
-msgstr "Записи (RSS)"
+msgstr "Вакансии (RSS)"
 
 #: wp-includes/theme-compat/footer.php:19
 msgid "Comments (RSS)"
@@ -7617,7 +7617,7 @@ msgstr "%d запросов. %s секунд."
 
 #: wp-includes/theme-compat/sidebar.php:32
 msgid "You are currently browsing the archives for the %s category."
-msgstr "Вы просматриваете архив рубрики &laquo;%s&raquo;."
+msgstr "Вы просматриваете архив категории &laquo;%s&raquo;."
 
 #: wp-includes/theme-compat/sidebar.php:35
 msgid ""
