@@ -408,7 +408,7 @@ if ( ! function_exists( 'show_categories_menu' ) ){
 if ( ! function_exists( 'show_custom_categories_menu' ) ){
 	function show_custom_categories_menu($customClass = 'nav clearfix', $addUlContainer = true){
             
-                $cat = get_cat_ID(__("Vacancy categories",'PureType'));
+                $cat = get_cat_ID(__("All vacancies",'PureType'));
                 $cats = get_categories('hide_empty=0&include=' . $cat );
                 
                 //$menu = '<ul>';
@@ -416,7 +416,7 @@ if ( ! function_exists( 'show_custom_categories_menu' ) ){
                 if ( !empty($cats) ) {
                     $cat = array_shift($cats);
                     $link = get_term_link($cat);
-                    $menu .= "<li><a href='$link'>" . __("All vacancies",'PureType') . '</a></li>';
+                    $menu .= "<li><a href='$link'>" . $cat->name . '</a></li>';
 		}
                 //$menu .= '</ul>';
                 echo $menu;
