@@ -12,7 +12,7 @@ $hierarchical = 0;      // 1 for yes, 0 for no
 $title        = '';
 $empty        = 1;
 
-$cat = get_cat_ID(__("Vacancy categories",'PureType'));
+$cat = get_cat_ID(__("All vacancies",'PureType'));
 
 $args = array(
   'orderby'      => $orderby,

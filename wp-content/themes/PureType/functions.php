@@ -90,7 +90,7 @@ function et_home_posts_query( $query = false ) {
         $query->set( 'posts_per_page', et_get_option( 'puretype_homepage_posts', '6' ) );
 	
 	/* Exclude categories set in ePanel */
-        $cat = get_cat_ID(__("Vacancy categories",'PureType'));
+        $cat = get_cat_ID(__("All vacancies",'PureType'));
         $subCats = get_categories('child_of=' . $cat );
         foreach($subCats as $subCat)
         {
