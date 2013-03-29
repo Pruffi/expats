@@ -1,7 +1,7 @@
 <?php $loopcounter = 0;
-$query = new WP_Query('post_type=success_story&posts_per_page=5&orderby=ID&order=DESC');
+//$query = new WP_Query('post_type=success_story&posts_per_page=5&orderby=ID&order=DESC');
                     
-if ($query->have_posts()) : while ($query->have_posts()) : $query->the_post();
+if (have_posts()) : while (have_posts()) : the_post();
    $loopcounter++; ?>
 
 <div class="home-post-wrap-2"> 
