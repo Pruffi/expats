@@ -1,0 +1,4356 @@
+Array
+(
+    [time] => Thu, 20 Oct 2011 16:53:06 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => loki-pose.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => loki-pose.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpcnTsuV
+                    [error] => 0
+                    [size] => 169504
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 16:53:52 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => loki-bush.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => loki-bush.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phppVvEDB
+                    [error] => 0
+                    [size] => 342346
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 16:55:53 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => WomansWorld.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => WomansWorld.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpfw0oAx
+                    [error] => 0
+                    [size] => 312288
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 16:56:34 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => WomansWorld.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => WomansWorld.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php3Yve2D
+                    [error] => 0
+                    [size] => 312288
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:08:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpMPknEF
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:10:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpPKH7VC
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:11:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phplhJEVr
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:14:36 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpprLWKB
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:40:56 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpx4P8i3
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:52:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php5wPRGn
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Thu, 20 Oct 2011 17:54:20 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpMJAfwz
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 14:46:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpkY4Zgg
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 14:47:25 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpq3l01E
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 14:49:25 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phphNM8zf
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 14:49:54 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => LivingMagazine.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => LivingMagazine.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php5WV2US
+                    [error] => 0
+                    [size] => 271682
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:35:13 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php3feHrW
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:36:26 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => next.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => next.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpRLek1k
+                    [error] => 0
+                    [size] => 1944
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:37:31 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php6uzJ3i
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:38:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => FAQ.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => FAQ.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php8TMvPq
+                    [error] => 0
+                    [size] => 7027
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:39:34 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => next.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => next.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php3q6FgB
+                    [error] => 0
+                    [size] => 1944
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:41:50 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => next.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => next.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpg3S0hj
+                    [error] => 0
+                    [size] => 1944
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:47:17 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => next.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => next.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpUuQkg1
+                    [error] => 0
+                    [size] => 1944
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:48:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjcEvNf
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:50:00 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpKDCjsy
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:50:44 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php2zQRN3
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:51:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpVUzeEM
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:52:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:53:43 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phplNyYtD
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:54:24 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpGhbHYo
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:55:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpCtAokM
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:56:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpbL6h7x
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:58:58 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phplIqQ3A
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 15:59:51 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpvYUQSe
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:03:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpz7Q66u
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:04:06 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpoiRmAv
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:04:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpq4VFYm
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:11:15 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpudEGRQ
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:12:13 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpACMRN3
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:13:02 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpXKWr4g
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:13:54 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpShmuwA
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:36:53 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpIJJddE
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:41:05 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phphhHupM
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:42:14 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpq5DGBE
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:46:01 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpANza5t
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:47:25 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php372ciq
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:48:04 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpdIp0Cw
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:48:39 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpIkv0OR
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:49:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpKv5Y1f
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:50:04 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpoW5sX9
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:50:42 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php7sp2RK
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:51:06 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpej0GsV
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:51:45 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php2z7fsI
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:52:53 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php9tyVNJ
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:53:29 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phppNyA8N
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:54:15 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpM8cY17
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:55:07 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpCj6eGb
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:56:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpLWlx9c
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 16:58:11 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phprq69Ih
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:00:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpsL1gKp
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:01:56 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpSisCpB
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:03:07 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phprowuDk
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:04:02 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpR1Bbji
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:04:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpdEazXp
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:05:29 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpMvbl9i
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:06:50 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpQ7DxzW
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:07:30 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php5q5gRd
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:08:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjvlbvy
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:08:51 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpgXtrhL
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:09:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpXo0KL2
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:10:24 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phphrfCGi
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:10:57 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpgdyYDG
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:11:24 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpa8ZWXa
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:11:56 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpshiZWi
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:12:52 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpbWgIul
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:19:14 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpIRaC4c
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:19:54 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpmKnmXx
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:21:07 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpojUAuJ
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:22:02 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:23:02 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:24:10 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:24:51 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:25:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:27:20 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpW4PpoM
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:27:58 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpuUyjm6
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:28:42 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpO9fXbQ
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:29:01 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpR19u6F
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:31:12 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpXwu7ZU
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:31:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpiNACYL
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:32:41 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpk0yaeV
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:33:42 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpBY5NlM
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:34:22 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpKFiB3V
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:34:33 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php4DJLtw
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:38:28 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpuM642J
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:39:46 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpKCkRVc
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:41:41 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phppjG3Ke
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:42:10 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpDPjwzu
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:43:20 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpIVoU16
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:44:10 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php2mp3jy
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:45:12 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpLm4czb
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:45:51 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php343IEg
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:46:21 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpN6PvSo
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:47:14 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpqtzUuC
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:47:50 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpJbFXMG
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:48:11 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php4IPbUf
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:50:09 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpEqgapf
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:50:38 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpUZcrtA
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:53:55 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 17:54:30 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpTAltnn
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 23:15:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php9JoUuE
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Fri, 21 Oct 2011 23:33:16 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjSzTOa
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:14:20 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjUGeI7
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:19:42 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpRr460Z
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:20:33 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpV0zaK9
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:20:49 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:21:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:21:59 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpoynUQp
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:22:38 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpD1Aat7
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:22:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php8UTero
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:23:16 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpvtSk3D
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:25:22 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpyBPNo2
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:27:09 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpHveiTC
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:28:38 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpP8FfLW
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:29:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpvbFENs
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:32:11 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpAphd1x
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:33:06 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpl1BJBt
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:35:35 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpL0eCuz
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:36:25 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpUsjllp
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:39:19 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpbVO3V0
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:39:33 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:40:28 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpdJZW4p
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:40:57 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpnKDCaU
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:41:56 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpuMGP3v
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:42:23 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php8BySKy
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:42:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpZdaO36
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:43:22 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php3N0TWj
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:44:18 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php46s5Uh
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:45:08 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpxEOq5t
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:47:12 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpkDBVBi
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:48:12 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpJD1XLe
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:51:26 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php4gllgY
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:53:29 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpgYSk0T
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:56:13 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php470cJY
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 10:56:57 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpXsAXnT
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:38:07 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpMZSPrg
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:38:54 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjdMM6z
+                    [error] => 0
+                    [size] => 804627
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:40:59 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:41:31 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:42:13 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:44:30 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpwLRqXz
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:45:21 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:50:03 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:51:12 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:51:42 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 11:52:38 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => census_confirmation.jpg
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => census_confirmation.jpg
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 3
+                    [size] => 0
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:00:06 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpwWquD5
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:02:15 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => nov2005_highres.jpg
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => nov2005_highres.jpg
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php2oQj1b
+                    [error] => 0
+                    [size] => 1910956
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:07:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpdZngWJ
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:10:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpI9r62d
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:11:37 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjGNxL2
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:12:47 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phppUwsBU
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:13:16 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phppXhhjz
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
+Array
+(
+    [time] => Sat, 22 Oct 2011 12:14:36 +1100
+    [addr] => ******1-225-226.dyn.iinet.net.au
+    [agent] => Shockwave Flash
+    [post] => Array
+        (
+            [Filename] => ant.png
+            [Upload] => Submit Query
+        )
+
+    [files] => Array
+        (
+            [Filedata] => Array
+                (
+                    [name] => ant.png
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phphY796V
+                    [error] => 0
+                    [size] => 3613
+                )
+
+        )
+
+)
+
+---
